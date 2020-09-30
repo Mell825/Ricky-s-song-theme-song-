@@ -1,0 +1,8 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    cout << "I love lucy and she loves me we're as happy as two can be da da la la dee doo doo la!\n";
+    return 0;
+}
